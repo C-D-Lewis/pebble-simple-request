@@ -27,3 +27,11 @@ Simple get and post request library for Pebble apps. Mostly for me to do simple
       console.log(responseText);
     });
     ```
+
+## Changelog
+
+**1.0.0**
+- Inital version
+
+**1.1.0**
+- Build for Emery
